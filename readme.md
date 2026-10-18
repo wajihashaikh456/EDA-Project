@@ -1,1 +1,1 @@
-My First Project of XYZ class.
+My First Project of Python for AI class.
